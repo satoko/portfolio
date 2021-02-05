@@ -3,6 +3,6 @@
   <head>
   </head>
   <body>
-    <p>Hello world</p>
+    <p>index.md @ satoko.github.io</p>
   </body>
 </html>
