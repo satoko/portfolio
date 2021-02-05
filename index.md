@@ -1,10 +1,10 @@
-### https://satoko.github.io/portfolio/
+### <https://satoko.github.io/portfolio/>
 
 # satoko のポートフォリオ
 ### QA(Quality Assurance)について
 
 > QualityAssuranceについてのメモ  
-> https://satoko.github.io/portfolio/about/QualityAssurance
+> <https://satoko.github.io/portfolio/about/QualityAssurance>
 
 QAは品質管理のために幅広い知識が求められる。品質管理の全体の流れやプログラミング知識など、システム開発やアプリ開発など細くとも長く活動してきた自分の経験が生かせる分野だと考える。まずはテスターやテストエンジニア、QAエンジニアの補佐などから始めて、自分のスキルアップを計りつつQAについて細かく学びたい。
  
@@ -20,9 +20,9 @@ GitHubに作ったプロジェクトをポートフォリオ代わりにする
 1. リポジトリをprivateにして、Pagesだけをpublicにするというのは**無料ではできない**。全てのファイルが公開されてしまうことに注意。
 
 > メモ：**Markdownのシンタックス**  
-> https://www.markdownguide.org/basic-syntax/ 
+> <https://www.markdownguide.org/basic-syntax/> 
 
 下記のページを参考に：
 
 > GitHub Pagesを利用して簡単にポートフォリオを作ってみた  
-> https://qiita.com/shimajiri/items/6b536f6ea4d68e920600
+> <https://qiita.com/shimajiri/items/6b536f6ea4d68e920600>
