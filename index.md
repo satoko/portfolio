@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <p>index.md @ satoko.github.io</p>
-  </body>
-</html>
+# satoko のポートフォリオ
+
+主に調べたことについて書いていきます。
+
+ [QualityAssuranceについて](https://satoko.github.io/portfolio/about/QualityAssurance)
+ 
