@@ -6,16 +6,16 @@ QAについて興味があるので、調べてみました。
 Jun Shikodaさんという方がとても詳しく、深く広く書かれていてとても参考になります。
 
 > QAエンジニア  
-> https://qiita.com/jun2014/items/32ec77be1056f546aada
+> <https://qiita.com/jun2014/items/32ec77be1056f546aada>
 
 > 上記記事の人のnote：実務の経験が語られていて良い  
-> https://note.com/jun111
+> <https://note.com/jun111>
 
 > SETエンジニアについて  
-> https://note.com/jun111/n/nddfb5eb749e4
+> <https://note.com/jun111/n/nddfb5eb749e4>
 
 > SET（Software Engineer in Test）エンジニアとは  
-> https://qiita.com/jun2014/items/80e24a8e994c4bed6437
+> <https://qiita.com/jun2014/items/80e24a8e994c4bed6437>
 
 ### QA周りの役職
 
