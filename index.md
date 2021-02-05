@@ -21,3 +21,8 @@ GitHubに作ったプロジェクトをポートフォリオ代わりにする
 
 > メモ：**Markdownのシンタックス**  
 > https://www.markdownguide.org/basic-syntax/ 
+
+下記のページを参考に：
+
+> GitHub Pagesを利用して簡単にポートフォリオを作ってみた  
+> https://qiita.com/shimajiri/items/6b536f6ea4d68e920600
