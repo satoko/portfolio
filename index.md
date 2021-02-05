@@ -11,7 +11,6 @@
 * iPhoneアプリを作っていた
 * LINEスタンプ販売数、約800個
 * Duolingoでフランス語、352日連続継続中！
-* Twitterを長くやっている
 
 ### QA(Quality Assurance)について
 
