@@ -4,7 +4,7 @@
 ### QA(Quality Assurance)について
 
 > QualityAssuranceについてのメモ  
-> https://satoko.github.io/portfolio/about/QualityAssurance)
+> https://satoko.github.io/portfolio/about/QualityAssurance
 
 QAは品質管理のために幅広い知識が求められる。品質管理の全体の流れやプログラミング知識など、システム開発やアプリ開発など細くとも長く活動してきた自分の経験が生かせる分野だと考える。まずはテスターやテストエンジニア、QAエンジニアの補佐などから始めて、自分のスキルアップを計りつつQAについて細かく学びたい。
  
