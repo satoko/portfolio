@@ -23,6 +23,15 @@ QAは品質管理のために幅広い知識が求められる。品質管理の
  
 また、昨今は AIが流行ってきているのでAIテストエンジニアなどはかなり希少だと考える。技術自体にも興味があるし、どのようにしてAIをテストしていくかなども学べたら面白いと思う。
 
+### QAに必要なツール群
+
+* Jenkins
+* TravisCI
+* JMeter
+* Selenium IDE
+* CyPress
+* TestCafe
+* Appium:iOS, Android
  
 ### GitHub Pagesでポートフォリオを作る
 GitHubに作ったプロジェクトをポートフォリオ代わりにする
